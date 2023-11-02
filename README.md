@@ -7,8 +7,12 @@ Fell free to play the game if you want.
 
 Objectives:
 
- |~Add Health Potions
- |~Fix starting with 0 lives
- |~Fix monster total damage being sumed instead of actual damage
- |~Replace defende
- |~Add Skills
+|~Add Health Potions
+
+|~Fix starting with 0 lives
+
+|~Fix monster total damage being sumed instead of actual damage
+ 
+|~Replace defende
+ 
+|~Add Skills
