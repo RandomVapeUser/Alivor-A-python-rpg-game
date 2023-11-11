@@ -16,3 +16,5 @@ Objectives:
 |~Replace defende ✅
  
 |~Add Skills 
+
+WARNING: The game is currently broken and i am not planning to fix it, the whole point of making it was to improve my python skills and now i will move to something harder.
